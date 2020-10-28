@@ -1,1 +1,1 @@
-version 1.1.0
+version 1.1.0 - adding new clock, refactoring clock, fixing clock tests
